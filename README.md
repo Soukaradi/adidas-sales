@@ -24,7 +24,7 @@ Adidas is more than a brand; it’s a symbol of performance, resilience, and cre
 
 ### 1. Interactive Excel Workbook  
 Explore key sales metrics and insights through pivot tables and dynamic dashboards.  
-📂 [Download Excel Workbook]("C:\Users\Dell\Downloads\Adidas Sales Analysis with reports .xlsx")  
+📂 [Download Excel Workbook](https://github.com/Soukaradi/adidas-sales/blob/main/Adidas%20Sales%20Analysis%20with%20reports%20.xlsx)  
 
 ### 2. Executive Summary (One-Page Report)  
 A concise snapshot of key findings and actionable recommendations.  
