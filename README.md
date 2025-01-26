@@ -4,19 +4,9 @@
 
 ## Project Overview: Building Momentum for Adidas  
 
-In the sportswear industry, innovation is not just a buzzword—it’s a necessity. This project delves into Adidas’ U.S. sales performance during 2020-2021, uncovering untapped opportunities, mitigating risks, and laying the foundation for sustained growth.  
+In the sportswear industry, innovation is not just a buzzword—it’s a necessity. This project delves into Adidas’ U.S. sales performance from 2020 to 2021, uncovering untapped opportunities, mitigating risks, and laying the foundation for sustained growth.  
 
-Through the integration of **SWOT Analysis** (Strengths, Weaknesses, Opportunities, Threats) and **Porter’s Five Forces Framework**, this case study presents a roadmap for Adidas to outpace competitors and reinforce its position as a market leader. With interactive dashboards and actionable strategies, this analysis brings insights to life and inspires transformation.  
-
----
-
-## Why This Project Matters  
-
-Adidas is more than a brand; it’s a symbol of performance, resilience, and creativity. This project reflects my commitment to:  
-
-- **Strategic Problem-Solving:** Addressing real-world business challenges with analytical depth.  
-- **Data-Driven Insights:** Transforming raw data into actionable recommendations.  
-- **Consulting Readiness:** Showcasing skills essential for roles at firms like McKinsey, BCG, and other strategy-focused companies.  
+This case study integrates SWOT Analysis (Strengths, Weaknesses, Opportunities, Threats) and Porter’s Five Forces Framework to present Adidas with a roadmap for outpacing competitors and reinforcing its position as a market leader. With interactive dashboards and actionable strategies, this analysis brings insights to life and inspires transformation.  
 
 ---
 
