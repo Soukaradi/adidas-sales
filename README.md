@@ -18,7 +18,7 @@ Explore key sales metrics and insights through pivot tables and dynamic dashboar
 
 ### 2. Executive Summary (One-Page Report)  
 A concise snapshot of key findings and actionable recommendations.  
-🖼️ [View One-Page Report](./path-to-your-one-page-report.png)  
+🖼️ [View One-Page Report](https://github.com/Soukaradi/adidas-sales/blob/main/Adidasshortreport.png)  
 
 ### 3. Additional Visual Reports  
 Detailed charts and visualizations used in the analysis:  
