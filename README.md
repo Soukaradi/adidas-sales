@@ -23,7 +23,7 @@ A concise snapshot of key findings and actionable recommendations.
 ### 3. Additional Visual Reports  
 Detailed charts and visualizations used in the analysis:  
 - **Retailer Performance Visualization:**  
-  ![Retailer Performance]("C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2025-01-26 200047.png")  
+  ![Retailer Performance](https://github.com/Soukaradi/adidas-sales/blob/main/Screenshot%202025-01-26%20192902.png)  
 - **Geographic Insights:**  
   ![Geographic Insights]("C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2025-01-26 192930.png")  
 - **Product Trends:**  
