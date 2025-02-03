@@ -23,11 +23,11 @@ A concise snapshot of key findings and actionable recommendations.
 ### 3. Additional Visual Reports  
 Detailed charts and visualizations used in the analysis:  
 - **Retailer Performance Visualization:**  
-  ![Retailer Performance](./path-to-retailer-visual.png)  
+  ![Retailer Performance]("C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2025-01-26 200047.png")  
 - **Geographic Insights:**  
-  ![Geographic Insights](./path-to-geographic-insights.png)  
+  ![Geographic Insights]("C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2025-01-26 192930.png")  
 - **Product Trends:**  
-  ![Product Trends](./path-to-product-trends.png)  
+  ![Product Trends]("C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2025-01-26 192902.png")  
 
 ---
 
