@@ -27,7 +27,7 @@ Detailed charts and visualizations used in the analysis:
 - **Geographic Insights:**  
   ![Geographic Insights](https://github.com/Soukaradi/adidas-sales/blob/main/Screenshot%202025-01-26%20192930.png)  
 - **Product Trends:**  
-  ![Product Trends]("C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2025-01-26 192902.png")  
+  ![Product Trends](https://github.com/Soukaradi/adidas-sales/blob/main/Screenshot%202025-01-26%20200047.png)  
 
 ---
 
