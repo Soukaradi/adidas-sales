@@ -21,14 +21,17 @@ A snapshot of key takeaways and recommended actions.
 ### **3. Key Visuals**  
 Some of the most significant insights visualized:  
 
-**Retailer Performance:** *(Which retailers drive the most sales?)*  
+**Sales Method Breakdown:** *(Which sales channels perform best?)*  
 <img src="https://github.com/Soukaradi/adidas-sales/blob/main/Screenshot%202025-01-26%20192902.png" width="400">  
+➡️ This graph highlights the performance of different sales methods—**online, offline, and in-store**. The shift towards online sales in 2021 suggests a strong digital transformation, reinforcing the importance of e-commerce optimization.  
 
-**Geographic Insights:** *(Where is Adidas underperforming?)*  
+**Product Sales Distribution:** *(Which products are selling the most?)*  
 <img src="https://github.com/Soukaradi/adidas-sales/blob/main/Screenshot%202025-01-26%20192930.png" width="400">  
+➡️ This visualization showcases the **product-wise sales distribution**, revealing key categories that drive revenue. Adidas' **Men’s Street Footwear** leads, indicating a reliance on a single segment while presenting opportunities for diversification.  
 
-**Product Trends:** *(Which categories lead sales?)*  
+**Monthly Sales Trends:** *(How have sales evolved over time?)*  
 <img src="https://github.com/Soukaradi/adidas-sales/blob/main/Screenshot%202025-01-26%20200047.png" width="400">  
+➡️ This chart compares **total monthly sales** across **2020 and 2021**, showing seasonal fluctuations and yearly trends. A strong recovery in 2021 suggests improved demand, but volatility in certain months highlights the need for better inventory planning.  
 
 ---
 
