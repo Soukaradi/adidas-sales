@@ -21,9 +21,9 @@ A snapshot of key takeaways and recommended actions.
 ### **3. Key Visuals**  
 Some of the most significant insights visualized:  
 
-**Sales Method Breakdown:** *(Which sales channels perform best?)*  
+**Sales Method Breakdown:** *(Which sales method generates the highest revenue?)*  
 <img src="https://github.com/Soukaradi/adidas-sales/blob/main/Screenshot%202025-01-26%20192902.png" width="400">  
-➡️ This graph highlights the performance of different sales methods—**online, offline, and in-store**. The shift towards online sales in 2021 suggests a strong digital transformation, reinforcing the importance of e-commerce optimization.  
+➡️ This graph compares **online, offline, and in-store sales** to revenue, highlighting the growing dominance of **e-commerce** and its role in driving Adidas’ overall sales.
 
 **Product Sales Distribution:** *(Which products are selling the most?)*  
 <img src="https://github.com/Soukaradi/adidas-sales/blob/main/Screenshot%202025-01-26%20192930.png" width="400">  
