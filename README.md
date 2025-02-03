@@ -30,7 +30,7 @@ Some of the most significant insights visualized:
 ➡️ This visualization showcases the **product-wise sales distribution**, revealing key categories that drive revenue. Adidas' **Men’s Street Footwear** leads, indicating a reliance on a single segment while presenting opportunities for diversification.  
 
 **Monthly Sales Trends:** *(How have sales evolved over time?)*  
-<img src="https://github.com/Soukaradi/adidas-sales/blob/main/Screenshot%202025-01-26%20200047.png" width="400">  
+<img src="https://github.com/Soukaradi/adidas-sales/blob/main/Screenshot%202025-01-26%20200047.png" width="600">  
 ➡️ This chart compares **total monthly sales** across **2020 and 2021**, showing seasonal fluctuations and yearly trends. A strong recovery in 2021 suggests improved demand, but volatility in certain months highlights the need for better inventory planning.  
 
 ---
